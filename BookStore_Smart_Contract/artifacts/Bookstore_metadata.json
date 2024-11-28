@@ -254,7 +254,7 @@
 	},
 	"settings": {
 		"compilationTarget": {
-			"BookStore.sol": "Bookstore"
+			"BookStore_Smart_Contract/BookStore.sol": "Bookstore"
 		},
 		"evmVersion": "cancun",
 		"libraries": {},
@@ -268,7 +268,7 @@
 		"remappings": []
 	},
 	"sources": {
-		"BookStore.sol": {
+		"BookStore_Smart_Contract/BookStore.sol": {
 			"keccak256": "0xfc786b13229146778466d10d51cf98a3293c2632235cb542b990e0dbcccfb9e0",
 			"license": "MIT",
 			"urls": [
